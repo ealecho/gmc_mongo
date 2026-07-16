@@ -24,36 +24,28 @@ The script:
 9. Deletes contacts aged under `5`.
 10. Displays the final contacts list.
 
-## Screenshot Placeholders
+## Screenshots
 
 ### 1. Insert Documents
 
-Add screenshot here.
+![Insert Documents](screenhots/1.png)
 
 ### 2. Display All Contacts
 
-Add screenshot here.
+![Display All Contacts](screenhots/2.png)
 
 ### 3. Display One Contact By ID
 
-Add screenshot here.
+![Display One Contact By ID](screenhots/3.png)
 
 ### 4. Display Contacts With Age Greater Than 18
 
-Add screenshot here.
+![Display Contacts With Age Greater Than 18](screenhots/4.png)
 
 ### 5. Display Contacts With Age Greater Than 18 And Name Containing "ah"
 
-Add screenshot here.
+![Display Contacts With Age Greater Than 18 And Name Containing Ah](screenhots/5.png)
 
-### 6. Update Kefi Seif To Kefi Anis
+### 6. Update, Delete, And Final Contacts List
 
-Add screenshot here.
-
-### 7. Delete Contacts Aged Under 5
-
-Add screenshot here.
-
-### 8. Final Contacts List
-
-Add screenshot here.
+![Update Delete And Final Contacts List](screenhots/6.png)
